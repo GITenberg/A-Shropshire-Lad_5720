@@ -1,0 +1,32 @@
+_repo: A-Shropshire-Lad_5720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, A. E. (Alfred Edward)
+    aliases:
+    - Houseman, A. E. (Alfred Edward)
+    - Housman, Alfred Edward
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '1852'
+    url: http://www.gutenberg.org/2009/agents/1852
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Edward_Housman
+description: The charms of the poems in A Shropshire Lad, published in 1896, continue
+  to resonate today. Housman's first collection and his signature work, the poems
+  here mix the styles of traditional English ballads and classical verse, and evoke
+  the idyllic English countryside, explore the nature of friendship, bravery, and
+  the passing of youth, among other themes.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shropshire (England) -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: A Shropshire Lad
+url: http://www.gutenberg.org/ebooks/5720
