@@ -1,5 +1,8 @@
 _repo: A-Shropshire-Lad_5720
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Housman, A. E. (Alfred Edward)
@@ -16,6 +19,8 @@ description: The charms of the poems in A Shropshire Lad, published in 1896, con
   here mix the styles of traditional English ballads and classical verse, and evoke
   the idyllic English countryside, explore the nature of friendship, bravery, and
   the passing of youth, among other themes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5720#A-Shropshire-Lad
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
